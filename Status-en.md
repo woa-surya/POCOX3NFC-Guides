@@ -13,7 +13,7 @@
 | 📦 UFS                 |                                     | ✅            |
 | 🔵 Bluetooth           |                                     | ❌            |
 | 🎆 GPU                 |                                     | ❌            |
-| 🔋 Battery             |                                     | ❌            |
+| 🔋 Battery             | It might take 10-15 minutes to display accurate %                       | ✅            |
 | 📌 GPS                 |                                     | ❌            |            
 | 🪵 USB                 | It's very problematic as of now.    | ⚠️            |
 | 🔊 Audio               |                                     | ❌            |
