@@ -20,7 +20,7 @@
 | 🧭 Sensor              |                                     | ❌            |
 | 🛡️ TPM                 |                                     | ❌            |
 | 👆 Touch               |                                     | ❌            |
-| 🔌 Charge              |                                     | ❌            |
+| 🔌 Charge              | Charges at 0.005 Watts                                    | ⚠️            |
 | 📳 Vibration motor     |                                     | ❌            |
 | 🔦 LED                 |                                     | ❌            |
 | 📸 Camera Flash        |                                     | ❌            |
@@ -65,8 +65,8 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 
 | Feature                         | Notes                                                                                   | Status         |
 |---------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🪵 USB-Fn   (Charging & MTP)   |   | ❌            |
-| 🪵 USB-Host (OTG)              |           | ❌           |
+| 🪵 USB-Fn   (Charging & MTP)   |   | ⚠️            |
+| 🪵 USB-Host (OTG)              |           | ✅           |
 
 
 ## 🎆 GPU 
