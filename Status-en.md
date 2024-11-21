@@ -14,19 +14,18 @@
 | 🔵 Bluetooth           |                                     | ❌            |
 | 🎆 GPU                 |                                     | ❌            |
 | 🔋 Battery             | It might take 10-15 minutes to display accurate %                       | ✅            |
-| 📌 GPS                 |                                     | ❌            |            
+| 📌 GPS                 | It's very problematic as of now.    | ⚠️            |            
 | 🪵 USB                 | It's very problematic as of now.    | ⚠️            |
 | 🔊 Audio               |                                     | ❌            |
 | 🧭 Sensor              |                                     | ❌            |
 | 🛡️ TPM                 |                                     | ❌            |
 | 👆 Touch               |                                     | ❌            |
-| 🔌 Charge              | Charges at 0.005 Watts                                    | ⚠️            |
+| 🔌 Charge              | Charges at 0.005 Watts              | ⚠️            |
 | 📳 Vibration motor     |                                     | ❌            |
 | 🔦 LED                 |                                     | ❌            |
 | 📸 Camera Flash        |                                     | ❌            |
 | 🏷️ NFC                 |                                     | ❌            |
 | 📸 Camera              |                                     | ❌            |
-| 🧑‍💼 Hyper-V             | Requires Xiaomi Inc Signed device configuration binary  | ❌           |
 | 🧬 Fingerprint scanner |                                     | ❌            |
 
 # Detailed status
@@ -65,7 +64,7 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 
 | Feature                         | Notes                                                                                   | Status         |
 |---------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🪵 USB-Fn   (Charging & MTP)   |   | ⚠️            |
+| 🪵 USB-Fn   (Charging & MTP)   |           | ⚠️            |
 | 🪵 USB-Host (OTG)              |           | ✅           |
 
 
