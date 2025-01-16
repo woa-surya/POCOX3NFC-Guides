@@ -5,28 +5,28 @@
 
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
-| ⌨️ Side buttons        |                                     | ✅            |
-| ♋ Cellular Calls      |                                     | ❌            |
-| ♋ Cellular Data       |                                     | ❌            |
-| ♋ Cellular Texts      |                                     | ❌            |
-| ♋ Wifi                |                                     | ❌            |
-| 📦 UFS                 |                                     | ✅            |
-| 🔵 Bluetooth           |                                     | ❌            |
-| 🎆 GPU                 |                                     | ❌            |
+| ⌨️ Side buttons        |                                                 | ✅            |
+| ♋ Cellular Calls      |                                                 | ❌            |
+| ♋ Cellular Data       |                                                 | ❌            |
+| ♋ Cellular Texts      |                                                 | ❌            |
+| ♋ Wifi                |                                                 | ❌            |
+| 📦 UFS                 |                                                 | ✅            |
+| 🔵 Bluetooth           |                                                 | ❌            |
+| 🎆 GPU                 |                                                 | ❌            |
 | 🔋 Battery             | It might take 10-15 minutes to display accurate %                       | ✅            |
-| 📌 GPS                 | It's very problematic as of now.    | ⚠️            |            
-| 🪵 USB                 | It's very problematic as of now.    | ⚠️            |
-| 🔊 Audio               |                                     | ❌            |
-| 🧭 Sensor              |                                     | ❌            |
-| 🛡️ TPM                 |                                     | ❌            |
-| 👆 Touch               |                                     | ❌            |
-| 🔌 Charge              | Charges at 0.005 Watts              | ⚠️            |
-| 📳 Vibration motor     |                                     | ❌            |
-| 🔦 LED                 |                                     | ❌            |
-| 📸 Camera Flash        |                                     | ❌            |
-| 🏷️ NFC                 |                                     | ❌            |
-| 📸 Camera              |                                     | ❌            |
-| 🧬 Fingerprint scanner |                                     | ❌            |
+| 📌 GPS                 | Works the same way it does on Rennell.          | ✅            |            
+| 🪵 USB                 |                                                 | ✅            |
+| 🔊 Audio               |                                                 | ❌            |
+| 🧭 Sensor              |                                                 | ❌            |
+| 🛡️ TPM                 | Doesn't support versions below Windows 11 22H2. | ✅            |
+| 👆 Touch               |                                                 | ❌            |
+| 🔌 Charge              | Charges at 0.005 Watts                          | ⚠️            |
+| 📳 Vibration motor     |                                                 | ❌            |
+| 🔦 LED                 |                                                 | ❌            |
+| 📸 Camera Flash        |                                                 | ❌            |
+| 🏷️ NFC                 |                                                 | ❌            |
+| 📸 Camera              |                                                 | ❌            |
+| 🧬 Fingerprint scanner |                                                 | ❌            |
 
 # Detailed status
 
@@ -62,10 +62,10 @@ REM Restore default auto detection functionality (default behavior):
 REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /v RoleSwitchMode /t REG_DWORD /d 3
 ```
 
-| Feature                         | Notes                                                                                   | Status         |
-|---------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🪵 USB-Fn   (Charging & MTP)   |           | ⚠️            |
-| 🪵 USB-Host (OTG)              |           | ✅           |
+| Feature                         | Notes                                                                           | Status         |
+|---------------------------------|---------------------------------------------------------------------------------|----------------|
+| 🪵 USB-Fn   (Charging & MTP)   |                                                                                  | ✅            |
+| 🪵 USB-Host (OTG)              | **[Default]**  Some of the features are work in progress (USB Powerless Dongles) | ⚠️            |
 
 
 ## 🎆 GPU 
