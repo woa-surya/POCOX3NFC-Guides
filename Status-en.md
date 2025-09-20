@@ -9,7 +9,7 @@
 | ♋ Cellular Calls      |                                                 | ❌            |
 | ♋ Cellular Data       |                                                 | ❌            |
 | ♋ Cellular Texts      |                                                 | ❌            |
-| ♋ Wifi                |                                                 | ❌            |
+| ♋ Wifi                |                                                 | ✅            |
 | 📦 UFS                 |                                                 | ✅            |
 | 🔵 Bluetooth           |                                                 | ❌            |
 | 🎆 GPU                 |                                                 | ❌            |
@@ -19,7 +19,7 @@
 | 🔊 Audio               |                                                 | ❌            |
 | 🧭 Sensor              |                                                 | ❌            |
 | 🛡️ TPM                 | Doesn't support versions below Windows 11 22H2. | ✅            |
-| 👆 Touch               |                                                 | ❌            |
+| 👆 Touch               |                                                 | ✅            |
 | 🔌 Charge              | Charges at 0.005 Watts                          | ⚠️            |
 | 📳 Vibration motor     |                                                 | ❌            |
 | 🔦 LED                 |                                                 | ❌            |
