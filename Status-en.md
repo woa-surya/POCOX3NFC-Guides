@@ -14,7 +14,7 @@
 | 🔵 Bluetooth           |                                                 | ✅            |
 | 🎆 GPU                 |                                                 | ❌            |
 | 🔋 Battery             | It might take 10-15 minutes to display accurate %                       | ✅            |
-| 📌 GPS                 | Works the same way it does on Rennell.          | ✅            |            
+| 📌 GPS                 |                                                 | ✅            |            
 | 🪵 USB                 |                                                 | ✅            |
 | 🔊 Audio               |                                                 | ❌            |
 | 🧭 Sensor              |                                                 | ❌            |
