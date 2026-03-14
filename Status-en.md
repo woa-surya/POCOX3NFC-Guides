@@ -6,22 +6,22 @@
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
 | ⌨️ Side buttons        |                                                 | ✅            |
-| ♋ Cellular Calls      |                                                 | ❌            |
+| ♋ Cellular Calls      |                                                 | ✅            |
 | ♋ Cellular Data       |                                                 | ✅            |
 | ♋ Cellular Texts      |                                                 | ✅            |
 | ♋ Wifi                |                                                 | ✅            |
 | 📦 UFS                 |                                                 | ✅            |
 | 🔵 Bluetooth           |                                                 | ✅            |
-| 🎆 GPU                 |                                                 | ❌            |
+| 🎆 GPU                 |                                                 | ✅            |
 | 🔋 Battery             | It might take 10-15 minutes to display accurate %                       | ✅            |
 | 📌 GPS                 |                                                 | ✅            |            
 | 🪵 USB                 |                                                 | ✅            |
-| 🔊 Audio               |                                                 | ❌            |
+| 🔊 Audio               |                                                 | ✅            |
 | 🧭 Sensor              |                                                 | ❌            |
 | 🛡️ TPM                 | Doesn't support versions below Windows 11 22H2. | ✅            |
 | 👆 Touch               |                                                 | ✅            |
 | 🔌 Charge              | Charges at 0.005 Watts                          | ⚠️            |
-| 📳 Vibration motor     |                                                 | ❌            |
+| 📳 Vibration motor     |                                                 | ✅            |
 | 🔦 LED                 |                                                 | ❌            |
 | 📸 Camera Flash        |                                                 | ❌            |
 | 🏷️ NFC                 |                                                 | ❌            |
@@ -33,8 +33,8 @@
 ## 🔊 Audio
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🔉 Audio Speaker       |                                     | ❌            |
-| 🔉 Handset  Speaker    |                                     | ❌            |
+| 🔉 Audio Speaker       |                                     | ✅            |
+| 🔉 Handset  Speaker    |                                     | ✅            |
 | 🔉 AUX                 |                                     | ❌            |
 | 🎙️ Internal Top Mic    |                                     | ❌            |
 | 🎙️ Internal Bottom Mic |                                     | ❌            |
@@ -71,5 +71,5 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 ## 🎆 GPU 
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 📲 Brightness control  |                                     | ❌            |
-| 🎆 X64 simulation      |                                     | ❌            | 
+| 📲 Brightness control  |                                     | ✅            |
+| 🎆 X64 simulation      |                                     | ✅            | 
